@@ -1,0 +1,52 @@
+{
+  "source_file": "HI-Small_Trans.csv",
+  "selection": "first 250000 original data rows; no synthetic additions",
+  "rows": 250000,
+  "columns": [
+    "Timestamp",
+    "From Bank",
+    "Account",
+    "To Bank",
+    "Account.1",
+    "Amount Received",
+    "Receiving Currency",
+    "Amount Paid",
+    "Payment Currency",
+    "Payment Format",
+    "Is Laundering"
+  ],
+  "first_timestamp": "2022-09-01 00:00:00",
+  "last_timestamp": "2022-09-04 15:48:00",
+  "simulated_label_counts": {
+    "0": 249974,
+    "1": 26
+  },
+  "payment_currency_counts": {
+    "US Dollar": 122212,
+    "Euro": 75489,
+    "Yuan": 13665,
+    "Rupee": 12571,
+    "Yen": 10309,
+    "Ruble": 10051,
+    "UK Pound": 5532,
+    "Bitcoin": 61,
+    "Canadian Dollar": 45,
+    "Mexican Peso": 21,
+    "Australian Dollar": 17,
+    "Swiss Franc": 10,
+    "Brazil Real": 7,
+    "Shekel": 6,
+    "Saudi Riyal": 4
+  },
+  "payment_format_counts": {
+    "Reinvestment": 181631,
+    "Cheque": 24784,
+    "Credit Card": 22509,
+    "ACH": 11485,
+    "Cash": 6608,
+    "Wire": 2921,
+    "Bitcoin": 62
+  },
+  "rows_with_missing_values": 0,
+  "exact_duplicate_rows": 0
+}
