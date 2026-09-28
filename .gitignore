@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+data/*.csv
+!data/toy_demo.csv
+!data/ibm_transactions.csv
+!data/README.md
+outputs/*.csv
+outputs/*.png
+outputs/*.json
+outputs/*.sqlite
+.streamlit/secrets.toml

@@ -1,0 +1,95 @@
+{
+  "project": "Transaction Risk Explorer",
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 4157,
+      "sha256": "7cf20766bfb2e885bc1a80843018d672810c62cf7967c1cb6e3840597107e765"
+    },
+    {
+      "path": ".gitignore",
+      "bytes": 183,
+      "sha256": "0c62f295843b56255a1f9c01d5ecb48c6252b1fc7fdabe467e3abd0bf4c1e684"
+    },
+    {
+      "path": "requirements.txt",
+      "bytes": 64,
+      "sha256": "240062bfa38dfe0517e10e6c9b565bc4487e7ccde7cccee5ad621eea97cd5994"
+    },
+    {
+      "path": "app.py",
+      "bytes": 19053,
+      "sha256": "a081dd25d35a1c64de8d6b36f63278814012175cc15743cfb361f16733c46468"
+    },
+    {
+      "path": "run_windows.bat",
+      "bytes": 175,
+      "sha256": "7503368d267b8680142a4e6a11e09d045b4d00c60dfd8d7412638f1dece2779a"
+    },
+    {
+      "path": "run_mac_linux.sh",
+      "bytes": 186,
+      "sha256": "c96f6a860d2def3f01a81f9268a29c7f127aa4a185cf70eb61fb015c03ab376b"
+    },
+    {
+      "path": "data/README.md",
+      "bytes": 307,
+      "sha256": "af8ee3a75ed08eb09366c98c11a0dc660f5a282411491aa7e32c693645deb58f"
+    },
+    {
+      "path": "data/DATA_SOURCE.md",
+      "bytes": 2087,
+      "sha256": "df1d0bed9c268c39b7d4bf68d50d5df66e43801b5200eb410cb43e51ac4eb18f"
+    },
+    {
+      "path": "data/ibm_transactions.csv",
+      "bytes": 23901713,
+      "sha256": "fcba302758f5dc2ae7534dbc8cd3530227a9d4a16afc9af27a7d4e6b3ea862c8"
+    },
+    {
+      "path": "data/ibm_sample_profile.json",
+      "bytes": 1123,
+      "sha256": "8c5c410c52b372485453475258dc085e5c8706469e7d7c7456489f56e46f2c44"
+    },
+    {
+      "path": "data/toy_demo.csv",
+      "bytes": 73217,
+      "sha256": "48817f1c224c4570902b6b4634338008904a9e8487983fe05da5951f0f237d86"
+    },
+    {
+      "path": "src/__init__.py",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "src/dashboard_data.py",
+      "bytes": 6847,
+      "sha256": "c3ba01952bc28e23c354fc8c058314a10c0a981f63a46afbe1d60be50058fe80"
+    },
+    {
+      "path": "sql/risk_queries.sql",
+      "bytes": 1621,
+      "sha256": "161eace99f419805c13b5ec80f704a225428e6070f0313747293c3cdebad4ac8"
+    },
+    {
+      "path": "scripts/download_full_ibm.py",
+      "bytes": 1226,
+      "sha256": "06f16e3a9b0c2d7b03bb3185635d081e1e83d1bf0009aa3cefc8318a18445a64"
+    },
+    {
+      "path": "tests/test_dashboard_data.py",
+      "bytes": 1957,
+      "sha256": "7fab5ff3b773416c1ff42a918d1eb28263d585bb62e0da73b8ae3a1238e7a68d"
+    },
+    {
+      "path": "web-preview/index.html",
+      "bytes": 102014,
+      "sha256": "80c63405200bd482ac77d2e701d042f004f561850ba9bbb87a3ae248a2251520"
+    },
+    {
+      "path": "web-preview/README.md",
+      "bytes": 175,
+      "sha256": "6bf7b288191bddd194e53b5b57fc60ecc240de51d6122a5e2156ab231c8595fd"
+    }
+  ]
+}
